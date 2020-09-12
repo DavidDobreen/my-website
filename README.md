@@ -2,6 +2,4 @@
 
 This is my-website
 
-new edit on update-readme branch
-
-updated locally
+udpates made on master on github before rebase
